@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @denoboi
-- 👀 I’m interested in Games and Law
-- 🌱 I’m currently learning C# Unity and Python
+- 👋 Hi, I’m @deniz
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C# Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
